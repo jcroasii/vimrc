@@ -1,0 +1,14 @@
+set number
+set hlsearch
+set incsearch
+set autoindent
+set ignorecase
+set smartcase
+set ruler
+set visualbell
+set tabstop=8
+set softtabstop=0
+set expandtab
+set shiftwidth=4
+set smarttab
+syntax on
